@@ -1,0 +1,34 @@
+{
+  "name": "honkit-plugin-blockquote-callout",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "./index",
+  "description": "This Honkit plugin converts blockquotes into GitHub Flavored markdown Alert-like information for both websites and ebooks.",
+  "keywords": [
+    "gitbook",
+    "honkit",
+    "plugin",
+    "honkit",
+    "hints",
+    "alert",
+    "blockquotes",
+    "callout"
+  ],
+  "author": {
+    "name": "NIWA Tomonori"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "npx @biomejs/biome lint ./src",
+    "fmt:check": "npx @biomejs/biome check ./src",
+    "__end__": ""
+  },
+  "engines": {
+    "honkit": ">=5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/intptr-t/honkit-plugin-blockquote-callout/issues"
+  },
+  "homepage": "https://github.com/intptr-t/honkit-plugin-blockquote-callout"
+}

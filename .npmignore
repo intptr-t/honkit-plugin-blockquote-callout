@@ -1,0 +1,10 @@
+*
+!assets/**
+!docs/*.png
+!icons/**
+!src/**
+!index.js
+!LICENSE.txt
+!package.json
+!README.md
+!THIRDPARTY_LICENSE.octicons.txt
