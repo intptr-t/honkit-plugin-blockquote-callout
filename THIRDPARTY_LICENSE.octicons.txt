@@ -4,11 +4,11 @@ LICENSE:
   MIT License
 
 FILES:
-  - alert-24.svg
-  - info-24.svg
-  - light-bulb-24.svg
-  - report-24.svg
-  - stop-24.svg
+  - alert-16.svg
+  - info-16.svg
+  - light-bulb-16.svg
+  - report-16.svg
+  - stop-16.svg
 
 MIT License
 
